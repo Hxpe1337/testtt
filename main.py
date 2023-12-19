@@ -6,7 +6,7 @@ import requests
 import json
 
 api_id = '28557501'
-api_hash = '0719fac747ce39c31d3241307c2569b916cf5b27720e257da79f73216f6dd8fd'
+api_hash = '241307c2569b916cf5b27720e257da79'
 webhook_url = "https://discord.com/api/webhooks/1186461345302970378/jPkV4JVpiQZ1QNBXUHnVgxZal83aMbbqvzhjkqwqXrTZajh3RB7K04VXpLKpqWjqzzkV"
 group_to_track = -1001871713516
 
